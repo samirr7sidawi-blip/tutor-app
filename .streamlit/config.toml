@@ -1,0 +1,12 @@
+# Warm "cozy study" palette — golden light, leather/sepia, cream text.
+[client]
+# Hide the "Deploy" button and ⋮ dev menu for a clean, product-like UI.
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#D69A5C"               # warm amber accent (candle/window light)
+backgroundColor = "#17120D"            # deep warm brown
+secondaryBackgroundColor = "#241C15"   # sidebar / chat bubbles / widgets
+textColor = "#ECE0CC"                  # warm cream
+font = "serif"                         # bookish, fits the library vibe

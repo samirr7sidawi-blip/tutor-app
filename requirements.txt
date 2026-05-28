@@ -1,0 +1,7 @@
+streamlit
+google-genai
+PyPDF2
+anthropic
+openai
+python-dotenv
+Pillow
